@@ -3,8 +3,10 @@
     #### Description:
     SOURCE
     Drug analyser takes a drug(scientific name) and it returns the indications, function and synonyms
-    The code is more complex than it seems. The source is the therapeutic drug database(the largest source
-    of information on drugs in the internet). All the .txt and .xls files were converted into csvs and reformatted to include three columns(as in the drugs_to_csv and new_csv functions) in order to decode the information. The csv files should be included in the project directory along with some of the original txt
+    Converting the files and parsing them into csvs was more complex than it seems. The source is the therapeutic drug 
+    database(the largest source of information on drugs in the internet). All the .txt and .xls files were converted into 
+    csvs and reformatted to include three columns(as in the drugs_to_csv and new_csv functions) in order to decode the 
+    information. The csv files should be included in the project directory along with some of the original txt
     files.
 
     GET INDEX AND GET TARGET FUNCTIONS
